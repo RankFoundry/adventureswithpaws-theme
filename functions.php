@@ -51,7 +51,7 @@ if ( 'AdventuresWithPaws' === CURRENT_THEME_NAME ) {
 		AdventuresWithPaws_THEME_DIR . '/functions.php',
 		'AdventuresWithPaws'
 	);
-	$themeUpdateChecker->setBranch('master');
+	$themeUpdateChecker->setBranch('main');
 }
 
 
